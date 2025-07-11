@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed74aa24-10cf-4390-b4e2-50485f923889" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data-exploration.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/book-recommender.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/book-recommender.iml" afterDir="false" />
+    <list default="true" id="ed74aa24-10cf-4390-b4e2-50485f923889" name="Changes" comment="imported book data from kaggle">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-exploration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data-exploration.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,8 +73,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1752250045722</updated>
-      <workItem from="1752250046856" duration="937000" />
+      <workItem from="1752250046856" duration="2601000" />
     </task>
+    <task id="LOCAL-00001" summary="imported book data from kaggle">
+      <option name="closed" value="true" />
+      <created>1752251188855</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752251188856</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,5 +99,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="imported book data from kaggle" />
+    <option name="LAST_COMMIT_MESSAGE" value="imported book data from kaggle" />
   </component>
 </project>
