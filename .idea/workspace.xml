@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed74aa24-10cf-4390-b4e2-50485f923889" name="Changes" comment="saved cleaned books dataset to csv">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vector-search.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ed74aa24-10cf-4390-b4e2-50485f923889" name="Changes" comment="seperated book descriptions from document" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1752250045722</updated>
       <workItem from="1752250046856" duration="2601000" />
-      <workItem from="1752257063412" duration="12235000" />
+      <workItem from="1752257063412" duration="12557000" />
     </task>
     <task id="LOCAL-00001" summary="imported book data from kaggle">
       <option name="closed" value="true" />
@@ -117,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752331920935</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="seperated book descriptions from document">
+      <option name="closed" value="true" />
+      <created>1752340253631</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752340253631</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +144,7 @@
     <MESSAGE value="removed books with short descriptions" />
     <MESSAGE value="created column for title: subtitle and a tagged description" />
     <MESSAGE value="saved cleaned books dataset to csv" />
-    <option name="LAST_COMMIT_MESSAGE" value="saved cleaned books dataset to csv" />
+    <MESSAGE value="seperated book descriptions from document" />
+    <option name="LAST_COMMIT_MESSAGE" value="seperated book descriptions from document" />
   </component>
 </project>
