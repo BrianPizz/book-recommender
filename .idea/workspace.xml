@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed74aa24-10cf-4390-b4e2-50485f923889" name="Changes" comment="imported book data from kaggle">
+    <list default="true" id="ed74aa24-10cf-4390-b4e2-50485f923889" name="Changes" comment="identify category distribution">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data-exploration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data-exploration.ipynb" afterDir="false" />
     </list>
@@ -74,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1752250045722</updated>
       <workItem from="1752250046856" duration="2601000" />
-      <workItem from="1752257063412" duration="1644000" />
+      <workItem from="1752257063412" duration="5740000" />
     </task>
     <task id="LOCAL-00001" summary="imported book data from kaggle">
       <option name="closed" value="true" />
@@ -84,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752251188856</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="identify category distribution">
+      <option name="closed" value="true" />
+      <created>1752260769486</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752260769486</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="imported book data from kaggle" />
-    <option name="LAST_COMMIT_MESSAGE" value="imported book data from kaggle" />
+    <MESSAGE value="identify category distribution" />
+    <option name="LAST_COMMIT_MESSAGE" value="identify category distribution" />
   </component>
 </project>
