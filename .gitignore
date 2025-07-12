@@ -1,0 +1,55 @@
+# Ignore compiled Python bytecode files
+*.pyc
+
+# Ignore Python cache directories
+__pycache__/
+
+# Ignore environment-specific settings
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.history
+
+# Ignore dependency directories
+lib/
+lib64/
+
+# Ignore log files
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore testing files
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Ignore Django specific files
+db.sqlite3
+local_settings.py
+
+# Ignore Scrapy specific files
+.scrapy
+
+# Ignore build outputs
+/site #mkdocs
+/dist
+/build
