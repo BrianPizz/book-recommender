@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed74aa24-10cf-4390-b4e2-50485f923889" name="Changes" comment="created vector search for book recommendations">
+    <list default="true" id="ed74aa24-10cf-4390-b4e2-50485f923889" name="Changes" comment="created simple categories for higher level book grouping">
+      <change afterPath="$PROJECT_DIR$/text-classification.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vector-search.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/vector-search.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1752250045722</updated>
       <workItem from="1752250046856" duration="2601000" />
-      <workItem from="1752257063412" duration="22470000" />
+      <workItem from="1752257063412" duration="23293000" />
     </task>
     <task id="LOCAL-00001" summary="imported book data from kaggle">
       <option name="closed" value="true" />
@@ -185,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752502117791</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="created simple categories for higher level book grouping">
+      <option name="closed" value="true" />
+      <created>1752502729805</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1752502729805</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +222,7 @@
     <MESSAGE value="gitignore" />
     <MESSAGE value="built vector database" />
     <MESSAGE value="created vector search for book recommendations" />
-    <option name="LAST_COMMIT_MESSAGE" value="created vector search for book recommendations" />
+    <MESSAGE value="created simple categories for higher level book grouping" />
+    <option name="LAST_COMMIT_MESSAGE" value="created simple categories for higher level book grouping" />
   </component>
 </project>
