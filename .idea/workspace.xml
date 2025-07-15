@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed74aa24-10cf-4390-b4e2-50485f923889" name="Changes" comment="transferred text classification to designated file">
+    <list default="true" id="ed74aa24-10cf-4390-b4e2-50485f923889" name="Changes" comment="defined zero shot classification function for all categories">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/text-classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/text-classification.ipynb" afterDir="false" />
     </list>
@@ -80,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1752250045722</updated>
       <workItem from="1752250046856" duration="2601000" />
-      <workItem from="1752257063412" duration="23941000" />
+      <workItem from="1752257063412" duration="38584000" />
     </task>
     <task id="LOCAL-00001" summary="imported book data from kaggle">
       <option name="closed" value="true" />
@@ -202,7 +202,23 @@
       <option name="project" value="LOCAL" />
       <updated>1752503338390</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="added zero shot classification (fiction/nonfiction)">
+      <option name="closed" value="true" />
+      <created>1752503971453</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1752503971453</updated>
+    </task>
+    <task id="LOCAL-00017" summary="defined zero shot classification function for all categories">
+      <option name="closed" value="true" />
+      <created>1752504251320</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1752504251320</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +247,8 @@
     <MESSAGE value="created vector search for book recommendations" />
     <MESSAGE value="created simple categories for higher level book grouping" />
     <MESSAGE value="transferred text classification to designated file" />
-    <option name="LAST_COMMIT_MESSAGE" value="transferred text classification to designated file" />
+    <MESSAGE value="added zero shot classification (fiction/nonfiction)" />
+    <MESSAGE value="defined zero shot classification function for all categories" />
+    <option name="LAST_COMMIT_MESSAGE" value="defined zero shot classification function for all categories" />
   </component>
 </project>
