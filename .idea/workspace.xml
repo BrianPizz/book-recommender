@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed74aa24-10cf-4390-b4e2-50485f923889" name="Changes" comment="add books dataset with new simple categories/included previous files">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ed74aa24-10cf-4390-b4e2-50485f923889" name="Changes" comment="new file for sentiment analysis" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +78,7 @@
       <updated>1752250045722</updated>
       <workItem from="1752250046856" duration="2601000" />
       <workItem from="1752257063412" duration="46944000" />
-      <workItem from="1752688958365" duration="9851000" />
+      <workItem from="1752688958365" duration="10194000" />
     </task>
     <task id="LOCAL-00001" summary="imported book data from kaggle">
       <option name="closed" value="true" />
@@ -250,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752675997983</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="new file for sentiment analysis">
+      <option name="closed" value="true" />
+      <created>1753129469013</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1753129469013</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,6 +291,7 @@
     <MESSAGE value="created missing categories dataframe" />
     <MESSAGE value="merged dataframes" />
     <MESSAGE value="add books dataset with new simple categories/included previous files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add books dataset with new simple categories/included previous files" />
+    <MESSAGE value="new file for sentiment analysis" />
+    <option name="LAST_COMMIT_MESSAGE" value="new file for sentiment analysis" />
   </component>
 </project>
